@@ -1,10 +1,11 @@
 # Group-Chat-with-File-Sharing-in-NodeJS
 
-npm install module name --save
-npm install express --save
-npm install socket.io --save
-npm i formidable --save
-npm install body-parser --save
+1. npm install module name --save,
+2. npm install express --save,
+3. npm install socket.io --save,
+4. npm i formidable --save,
+5. npm install body-parser --save.
+
 (When you run this project on localhost (http://localhost:7070), an alert prompt will appear on your browser asking you to enter your name and room name. If you want to chat with someone using this application, you need to make sure that your group name is the same as theirs. If you don't enter the same group name, you won't be able to chat with your friend.) 
 
 A group chat project in Node.js is an application that allows multiple users to communicate with each other in real-time. This type of application is commonly used in workplaces, schools, and social groups to facilitate communication and collaboration among members.
