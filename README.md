@@ -1,5 +1,8 @@
 # Group-Chat-with-File-Sharing-in-NodeJS
 
+![Screenshot 2023-05-03 204855](https://user-images.githubusercontent.com/62230465/235954822-dbd29772-17ed-4b60-9c9c-af1d6f1f9e2a.png)
+
+
 1. npm install module name --save,
 2. npm install express --save,
 3. npm install socket.io --save,
